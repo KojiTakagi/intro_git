@@ -1,3 +1,4 @@
 newtext
 second change
 git status
+git diff
